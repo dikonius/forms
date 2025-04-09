@@ -1,0 +1,9 @@
+* { box-sizing: border-box; }
+
+body {
+	font-size: 115%;
+	font-family: "Roboto", sans-serif;
+}
+
+h1 { margin-left: 1rem; }
+
